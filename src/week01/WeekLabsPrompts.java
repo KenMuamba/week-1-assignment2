@@ -1,6 +1,6 @@
 package week01;
 
-public class Week01VariablesAndOperationsLab {
+public class WeekLabsPrompts {
 
 	public static void main(String[] args) {
 		
